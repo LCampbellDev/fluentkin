@@ -14,8 +14,8 @@ tagline: "Software | Systems | Accessibility"
 description: >- 
   "Notes on software development, accessibility, digital education and building useful tools."
 
-url: "https://lcampbelldev.github.io/fluentkin.github.io"
-baseurl: "/fluentkin.github.io"
+url: "https://lcampbelldev.github.io"
+baseurl: "/fluentkin"
 
 github:
   username: lcampbelldev # change to your GitHub username
