@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+<!--# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
@@ -10,7 +10,7 @@ order: 4
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
----
+--- -->
 
 ![Hero image](/assets/headers/about-banner.webp)
 
