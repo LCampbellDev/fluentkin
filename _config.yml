@@ -7,12 +7,12 @@ timezone: Europe/London
 
 # seo-tag settings 
 
-title: FluentKin 
+title: "FluentKin"
 
-tagline: Software | Systems | Accessibility
+tagline: "Software | Systems | Accessibility"
 
 description: >- 
-  Notes on software development, accessibility, digital education and building useful tools.
+  "Notes on software development, accessibility, digital education and building useful tools."
 
 url: "https://fluentkin.github.io"
 
