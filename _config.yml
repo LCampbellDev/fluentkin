@@ -36,7 +36,6 @@ github:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-/#
 # Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
