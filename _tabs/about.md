@@ -1,10 +1,4 @@
-<!--
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
---- -->
-
-![Hero image](/assets/headers/about-banner.webp)
+<!-- insert! [Hero image](/assets/headers/about-banner.webp) -->
 
 # About FluentKin
 
@@ -82,8 +76,20 @@ I am particularly interested in projects involving technology, accessibility, in
 
 ## What this blog is for
 
-This space is a working record of building, thinking, and improving.
+This space is a working record of building, thinking, and improving.  
+It’s a place to share progress, ideas, and practical approaches to real problems. 
 
-It brings together practical projects, technical exploration, and ideas about how systems can be designed to better support the people using them.
+---
 
-Over time, it becomes a collection of approaches to building technology that is thoughtful, usable, and grounded in real needs.
+## Get in touch!
+
+I'm always happy to hear from people.
+
+Whether you:
+- share similar interests
+- want a virtual coffee chat
+- or are exploring a collaboration
+
+You can:
+- [Connect on LinkedIn](https://www.linkedin.com/in/larna-campbell)
+- [Email me](mailto:hello@lcampbell.dev)
