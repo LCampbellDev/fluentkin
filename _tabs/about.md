@@ -1,3 +1,8 @@
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
 <!-- insert! [Hero image](/assets/headers/about-banner.webp) -->
 
 # About FluentKin
