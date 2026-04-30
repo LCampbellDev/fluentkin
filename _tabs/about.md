@@ -1,11 +1,9 @@
 ---
-title: About
+title: About FluentKin
 icon: fas fa-info-circle
 order: 4
 ---
 <!-- insert! [Hero image](/assets/headers/about-banner.webp) -->
-
-# About FluentKin
 
 FluentKin is a space for thinking, building, and sharing ideas about technology that works for people in the real world.
 
